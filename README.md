@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Debanjan Mukherjee
+- 👋 Hi, I’m Debanjan Mukherjee
 - 👀 I’m interested in learning new coding languages and technologies.
 - 🌱 I’m currently learning C,C++,html,Java
 - 📫 How to reach me db01mukherjee@gmail.com
